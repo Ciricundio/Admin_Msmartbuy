@@ -1,0 +1,6 @@
+com\mycompany\msmartbuy\servlets\InsertarProductoServlet.class
+com\mycompany\msmartbuy\resources\JakartaEE8Resource.class
+com\mycompany\msmartbuy\JakartaRestConfiguration.class
+com\mycompany\msmartbuy\servlets\ActualizarProductoServlet.class
+com\mycompany\msmartbuy\servlets\loginServlets.class
+com\mycompany\msmartbuy\config\DBConfig.class
